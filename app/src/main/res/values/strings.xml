@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestWork</string>
+    <string name="add">Добавить</string>
+    <string name="back">Майнинг</string>
+    <string name="Setting">Настройки</string>
+    <string name="Update">Обновить</string>
+    <string name="hello_world">hello world</string>
+</resources>
